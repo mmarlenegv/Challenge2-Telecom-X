@@ -63,4 +63,4 @@ Simplemente haz clic en el archivo con extensión `.ipynb` que está en la lista
 3. Extrae la carpeta descargada en tu computadora.
 4. Abre el archivo `.ipynb` usando **Jupyter Notebook** o súbelo a **Google Colab** para ejecutar las celdas tú mismo.
 
-Desarrollado con 💙 y datos por [Marlene Galvez/mmarlenegv]*
+Desarrollado con 💙 y datos por *[Marlene Galvez/mmarlenegv]*
